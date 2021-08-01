@@ -1,6 +1,8 @@
-# flutter_budget_ui
+# money_tracker_app
 
-A new Flutter project.
+An UI code of simple money tracker / budget app
+
+![alt text](https://github.com/algonacci/money_tracker_app/blob/main/assets/thumbnail%20budget%20app.png?raw=true)
 
 ## Getting Started
 
