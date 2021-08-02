@@ -1,6 +1,6 @@
 # money_tracker_app
 
-An UI code of simple money tracker / budget app
+The UI code of simple money tracker / budget app
 
 ![alt text](https://github.com/algonacci/money_tracker_app/blob/main/assets/thumbnail%20budget%20app.png?raw=true)
 
